@@ -1,2 +1,2 @@
 # COGS108_Project
-2019 FALL cogs projects
+2019 Spring cogs108 final project
